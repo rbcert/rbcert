@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300i,400i,500');
+
+img {
+	height: 60%;
+	width: 60%;
+}
+
+.image {
+	position: relative;
+	width: 100;
+}
+
+h2 { 
+	font-family: 'Ubuntu', medium;
+	font-size: 400%;
+	position: absolute; 
+	top: 19%;  
+	width: 100%; 
+}
+
+h1 {
+	font-family: 'Ubuntu', light;
+	font-size: 270%;
+	position: absolute; 
+	top: 48%;  
+	width: 100%; 
+}
+
+h3 {
+	font-family: 'Ubuntu', italic;
+	font-size: 70%;
+	margin-right: 53%;
+	margin-top: -2.5%;
+	color: #FFFFFF;
+}
+
+button {
+	width: 150px;
+	height: 40px;
+	cursor: pointer;
+}
